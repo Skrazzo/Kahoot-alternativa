@@ -1,0 +1,24 @@
+{
+	"name": "setup-deno",
+	"description": "Set up Deno easially in GitHub Actions",
+	"version": "2.0.1",
+	"author": "Deno Land Inc",
+	"license": "MIT",
+	"type": "module",
+	"dependencies": {
+		"@actions/core": "^1.10.1",
+		"@actions/tool-cache": "^2.0.1",
+		"@radix-ui/react-slot": "^1.1.0",
+		"axios": "^1.7.8",
+		"js-cookie": "^3.0.5",
+		"react-router": "^7.0.1",
+		"react-sanctum": "^3.0.0",
+		"semver": "^7.6.3",
+		"shadcn-ui": "^0.9.3",
+		"undici": "^6.19.8"
+	},
+	"devDependencies": {
+		"@types/node": "^20.16.5",
+		"@types/semver": "^7.5.8"
+	}
+}
